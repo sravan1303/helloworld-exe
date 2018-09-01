@@ -30,25 +30,6 @@ a:hover {
 color:#f7b600;
 background:#fff;
 }
-section {
-width: 920px;
-margin: 0 auto
-}
-#post{
-width: 660px;
-float: left;
-}
-#sidebar{
-width: 240px;
-float: right;
-}
-footer{
-clear: both;
-text-align: center;
-background: #ccc;
-padding: 15px;
-}
-
 
 	
 
